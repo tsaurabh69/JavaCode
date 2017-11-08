@@ -10,7 +10,7 @@ public class Choice extends JFrame {
 	JButton bdelete = new JButton(" Delete Record ");
 	JPanel panel = new JPanel();
 	Choice(){
-		setTitle("Welcome to Student Managment System ");
+		setTitle("Welcome to Student Managment System of Murali ");
 		setSize(350,250);
 		setLocation(300,280);
 		panel.setLayout (null); 
